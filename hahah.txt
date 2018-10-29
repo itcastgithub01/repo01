@@ -11,6 +11,13 @@ fafsdgfdsg
 
 sfkldhgfkldshgfsd
 
+<<<<<<< HEAD
 fsdgdfgh
 
 wreqrewt
+=======
+vdzxfdgvbhgfd
+
+
+asdafdaefds
+>>>>>>> e399616d2cd565707ed03972c92663e22935ccd0
